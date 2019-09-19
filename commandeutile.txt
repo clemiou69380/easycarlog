@@ -1,0 +1,6 @@
+sudo modprobe drbd
+sudo drbdadm connect rep
+sudo drbdadm up rep
+sudo drbdadm primary rep
+sudo o2cb register-cluster rep
+sudo mount /dev/drbd0 /mnt

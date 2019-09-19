@@ -1,0 +1,113 @@
+
+.InscriptionContainer{
+    position:absolute;
+    height:500px;
+    width:320px; 
+    left:calc(50% - 160px);
+    top:calc(50% - 275px);
+    -webkit-box-shadow: 0px 0px 6px 0px rgba(255,255,255,0.1);
+    -moz-box-shadow:    0px 0px 6px 0px rgba(255,255,255,0.1);
+    box-shadow:         0px 0px 6px 0px rgba(255,255,255,0.1);
+    background:white;
+    border-radius:5px;
+}
+.InscriptionTemplate {
+    position:absolute;
+    width: 280px;
+    height: 70%;
+    bottom:0; 
+    margin-left: calc(50% - 140px);
+}
+.InscriptionTemplate h3{
+margin:5px auto 5px 5px;
+}
+.InscriptionTemplate p{
+    font-size:9px;
+    margin-left:5px;
+    width:272px;
+    text-align:justify;
+}
+.InscriptionLogo {
+    position:absolute;
+    height: 30%; 
+    top:0; 
+    width:100%;
+    background: rgb(206,19,37); 
+    -webkit-box-shadow: 0px 1px 3px 0px rgba(206, 19, 37, 0.5);
+    -moz-box-shadow:    0px 1px 3px 0px rgba(206, 19, 37, 0.5);
+    box-shadow:         0px 1px 3px 0px rgba(206, 19, 37, 0.5);
+    border-radius:4px 4px 0 0;
+}
+.InscriptionConnexion a{
+    position:absolute;
+    right:10px;
+    top:10px;
+    font-size:10px;
+    text-decoration: none;
+    color:white;
+    text-shadow:0px 0px 1px white;
+    padding:5px;
+    border-radius:15px;
+    width:55px;
+    text-align:center;
+    background:#293133;
+}
+.InscriptionConnexion a:hover{
+   background: #435154;
+}
+.InscriptionLogo object{
+    width:150px;
+    margin-left:calc(50% - 75px);
+    position:absolute;
+    bottom:0; 
+    animation: bounce 1s ease infinite;
+
+}
+.InscriptionFormulaire{
+    width:100%;
+}
+.InscriptionInput {
+    margin: 0 5px 30px 5px;
+    border: none;
+    border-bottom: 1px solid #293133;
+    width: 128px;
+    text-align: left;
+}
+
+.InscriptionMotdepasseoublie {
+    font-size: 10px;
+    width: 280px;
+}
+.InscriptionMotdepasseoublie a:hover {
+    color:black; 
+    text-decoration:underline;
+}
+
+#InscriptionEnvoyer {
+    position: absolute;
+    right: 20px;
+    width: 100px;
+    margin-top:-10px;
+    padding: 5px;
+    border: none;
+    text-align: center;
+    border-radius: 15px;
+    background: #293133;
+    color: white;
+}
+#InscriptionEnvoyer:hover{
+    background:#435154;
+    cursor: pointer;
+}
+ 
+
+.InscriptionMotdepasseoublie a { 
+    color:#293133;
+    text-decoration:none;
+}
+
+@keyframes bounce{
+    from{bottom:0;}
+    50%{bottom:2px;}
+    to{bottom:0;}
+}

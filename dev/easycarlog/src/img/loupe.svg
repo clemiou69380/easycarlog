@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1017.171" height="908.095" viewBox="0 0 1017.171 908.095">
+  <defs>
+    <style>
+      .cls-1, .cls-4, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #293133;
+      }
+
+      .cls-2, .cls-3, .cls-6 {
+        stroke: #293133;
+      }
+
+      .cls-2, .cls-5, .cls-6, .cls-8, .cls-9 {
+        stroke-linecap: round;
+      }
+
+      .cls-2, .cls-5, .cls-8 {
+        stroke-linejoin: round;
+      }
+
+      .cls-2, .cls-3, .cls-5, .cls-6 {
+        stroke-width: 10px;
+      }
+
+      .cls-11, .cls-3, .cls-6, .cls-8, .cls-9 {
+        fill: none;
+      }
+
+      .cls-3 {
+        opacity: 0.137;
+      }
+
+      .cls-4, .cls-5, .cls-8, .cls-9 {
+        stroke: #fff;
+      }
+
+      .cls-7 {
+        fill: #ce1325;
+      }
+
+      .cls-8, .cls-9 {
+        stroke-width: 30px;
+      }
+
+      .cls-8 {
+        opacity: 0.283;
+      }
+
+      .cls-9 {
+        opacity: 0.28;
+      }
+
+      .cls-10 {
+        stroke: none;
+      }
+
+      .cls-12 {
+        filter: url(#Ellipse_1);
+      }
+
+      .cls-13 {
+        filter: url(#Rectangle_31);
+      }
+    </style>
+    <filter id="Rectangle_31" x="0" y="469.519" width="491.315" height="438.576" filterUnits="userSpaceOnUse">
+      <feOffset dy="30" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="30" result="blur"/>
+      <feFlood flood-opacity="0.314"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_1" x="204.171" y="0" width="813" height="807" filterUnits="userSpaceOnUse">
+      <feOffset dy="30" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="30" result="blur-2"/>
+      <feFlood flood-opacity="0.396"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="loupe" transform="translate(86.171 60)">
+    <g id="loupe-2" data-name="loupe">
+      <ellipse id="Ellipse_43" data-name="Ellipse 43" class="cls-1" cx="24" cy="25" rx="24" ry="25" transform="translate(0 679)"/>
+      <g class="cls-13" transform="matrix(1, 0, 0, 1, -86.17, -60)">
+        <g id="Rectangle_31-2" data-name="Rectangle 31" class="cls-2" transform="matrix(0.79, -0.62, 0.62, 0.79, 90, 748.69)">
+          <rect class="cls-10" width="356" height="50"/>
+          <rect class="cls-11" x="5" y="5" width="346" height="40"/>
+        </g>
+      </g>
+      <g class="cls-12" transform="matrix(1, 0, 0, 1, -86.17, -60)">
+        <ellipse id="Ellipse_1-2" data-name="Ellipse 1" class="cls-1" cx="316.5" cy="313.5" rx="316.5" ry="313.5" transform="translate(294.17 60)"/>
+      </g>
+      <g id="Ellipse_42" data-name="Ellipse 42" class="cls-3" transform="translate(226 21)">
+        <ellipse class="cls-10" cx="298" cy="295" rx="298" ry="295"/>
+        <ellipse class="cls-11" cx="298" cy="295" rx="293" ry="290"/>
+      </g>
+      <path id="Tracé_13" data-name="Tracé 13" class="cls-4" d="M662.143,744.5,674.7,709.631l54.357,69.033-38.89,4.841Z" transform="translate(-417.901 -242)"/>
+      <g id="Rectangle_32" data-name="Rectangle 32" class="cls-5" transform="matrix(0.788, -0.616, 0.616, 0.788, 215.804, 523.081)">
+        <rect class="cls-10" width="38" height="50"/>
+        <rect class="cls-11" x="5" y="5" width="28" height="40"/>
+      </g>
+      <line id="Ligne_7" data-name="Ligne 7" class="cls-6" x1="26" y1="32" transform="translate(244.5 506.5)"/>
+    </g>
+    <ellipse id="Ellipse_57" data-name="Ellipse 57" class="cls-7" cx="289" cy="285.5" rx="289" ry="285.5" transform="translate(235 31)"/>
+    <g id="reflet" transform="translate(519.949 51.29)">
+      <path id="Tracé_14" data-name="Tracé 14" class="cls-8" d="M940.949,281.3s124.719-3.285,202.2,89.746" transform="translate(-940.949 -281.29)"/>
+      <path id="Tracé_15" data-name="Tracé 15" class="cls-9" d="M1162.344,405.865s22.469,20.479,26.266,50.938" transform="translate(-934.949 -282.29)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,72 @@
+Menu : 
+
+- Mon véhicule (on trouvera tout ce qui est marque, modele,  km de la bagnole, energie, options,ect.. 
+- L'Historique : Avec tout ce qui a été fait dessus, les reparations (avec en lien sur chaque chose la photo de la facture qui sera téléchargeable
+- L'entretien ou Les rappels : La on mettra toutes les alertes et les notifs concernant les choses à faire et à prévoir sur la voiture. ex:  faire la vidange dans 4500 bornes, ect..
+- Mes documents : On pourra retrouver absolument toutes les factures et les documents concernant la voiture. En tete de liste il y aura la CG, le CT, l'assurance, le permis ect..
+- Mon compte : Tout pour gerer son compte
+
+
+
+	Mon véhicule : 
+	
+	!!	- Marque
+	!!	- Modèle
+	!!	- Puissance fiscale
+	!!	- Puissance réelle
+		- Suralimentation (turbo)
+	!!	- Cylindrée
+	!!	- Energie
+	!!	- Date de première Immatriculation
+	!!	- 1ere main ?
+	!!	- Kilomètrage
+	!!	- Couleur
+	!!	- Boite de vitesse
+		- Options :
+		- Poids à vide :
+		- Consommation mixte : 
+		- vitesse maximum : 
+		- Acceleration 0 à 100 Km/H
+		- Transmission
+		- Dimension des pneus
+		- Freins 
+	!!	- Nombre de cylindre
+	!!	- Nombre de soupapes par cylindres
+	!!	- Echéance du controle technique
+	!!	- Echeance de la carte verte
+		
+	L'historique :
+		- Liste trié par date croissante des choses qui ont été faites : 
+			-> Une photo
+			-> titre du service effectué
+			-> kilomètrage
+			-> pièces changées 
+			-> date 
+			-> la facture 
+			
+	L'entretien ou les rappels : 
+		- Liste trié par urgence et date d'échéance
+			-> Le services à effectuer
+			-> dans cb de km
+			-> ou alors dans cb de temps
+			-> (Les pièces à acheter)
+			
+	Mes documents : 
+		- Liste qui commencera par les documents administratifs : 
+			-> Carte Grise
+			-> Carte Verte
+			-> Contrôle technique
+			-> Permis de conduire
+		- On listera ensuite toutes les factures et les documents d'entretiens, trié par date 
+		
+		
+	Mon compte : 
+		- Mes infos perso : 
+			-> Changer son nom
+			-> Changer sa date de naissance
+			-> Changer son mail
+			-> Changer sa photo
+			-> Paramètre de confidentialité
+			-> Changer mot de passe
+			-> Supprimer le compte
+			

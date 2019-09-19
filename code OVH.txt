@@ -1,0 +1,10 @@
+https://sdla.eu/easycarlog
+
+accès wordpress:
+user : easycarlog
+mdp : Dqcu46*0
+
+
+Nom bdd : db_easycarlog
+user : easycarlog
+mdp : M7bg7&a9
